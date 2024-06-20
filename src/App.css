@@ -36,3 +36,10 @@
     transform: rotate(360deg);
   }
 }
+
+@import url("~leaflet/dist/leaflet.css");
+
+.leaflet-container{
+width: 80%;
+height: 80%;
+}
